@@ -7,7 +7,7 @@
     - [cas8.rs](https://github.com/anandijain/cas8.rs) is quite similar, but uses a reference counted expressions and improves performance
     - [devlog](https://youtube.com/playlist?list=PL79kqjVnD2EOBvsTiCQqX0ZAwx9AKiA_w&si=V1xus8Q8reJ_7RS-)
 
-## electronical
+## electrical
 - [synth.kicad](https://github.com/anandijain/synth.kicad) 
     - a simple modular synth designed in KiCAD 7 and DIY double sided pcbs
     - modules: oscillator, filter, envelope generator, and dual rail power supply 
