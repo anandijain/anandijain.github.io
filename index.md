@@ -6,6 +6,10 @@
     - a minimal mathematica kernel in rust capable of SKI combinator evaluation, symbolic differentiation, and cellular automata simulation
     - [cas8.rs](https://github.com/anandijain/cas8.rs) is quite similar, but uses a reference counted expressions and improves performance
     - [devlog](https://youtube.com/playlist?list=PL79kqjVnD2EOBvsTiCQqX0ZAwx9AKiA_w&si=V1xus8Q8reJ_7RS-)
+- [CloneMe.jl](https://github.com/anandijain/CloneMe.jl)
+    - a collection of basic language models (BiGram, MLP) trained on my livestream transcripts
+    - more of the math exercises are in [nn_zero_to_hero](https://github.com/anandijain/nn_zero_to_hero)
+    - [devlog](https://www.youtube.com/playlist?list=PL79kqjVnD2EOZ05YOBYYBPaAKY2bqdIXa)
 
 ## electrical
 - [synth.kicad](https://github.com/anandijain/synth.kicad) 
