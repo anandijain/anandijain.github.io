@@ -33,3 +33,12 @@
     - clamp (manual)
 
 ## biological
+- [lab notebook](https://typst.app/project/ryd4ZfO0EySVjz8dyn3C3S)
+- [vlogs + videos](https://youtube.com/playlist?list=PL79kqjVnD2EM-hH6ACfetDa45Uy-ympZT&si=aNYTky7BFmG84BcO)
+- plasmid extraction
+- competent cell prep
+- bacterial transformation 
+
+## mathematics 
+- [Differential Equations (Blanchard)](https://youtube.com/playlist?list=PL79kqjVnD2ENiC1uQ6QMwNgtHjK4Dnj6r&si=HUzgMzO9FrbPUsKC)
+- [Linear Algebra and Its Applications (Lay)](https://youtube.com/playlist?list=PL79kqjVnD2ENyFtiGsUJcy8cTByrYsGOL&si=sgaXWzQoBmLhn7DD)
