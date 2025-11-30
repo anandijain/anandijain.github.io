@@ -5,7 +5,7 @@
 - [cas3.rs](https://github.com/anandijain/cas3.rs)
     - a minimal mathematica kernel in rust capable of SKI combinator evaluation, symbolic differentiation, and cellular automata simulation
     - [cas8.rs](https://github.com/anandijain/cas8.rs) is quite similar, but uses a reference counted expressions and improves performance
-    - [devlog](https://youtube.com/playlist?list=PL79kqjVnD2EOBvsTiCQqX0ZAwx9AKiA_w&si=V1xus8Q8reJ_7RS-)
+    - [devlog](https://youtube.com/playlist?list=PL79kqjVnD2EOBvsTiCQqX0ZAwx9AKiA_w)
 - [CloneMe.jl](https://github.com/anandijain/CloneMe.jl)
     - a collection of basic language models (BiGram, MLP) trained on my livestream transcripts
     - more of the math exercises are in [nn_zero_to_hero](https://github.com/anandijain/nn_zero_to_hero)
@@ -16,6 +16,10 @@
     - a simple modular synth designed in KiCAD 7 and DIY double sided pcbs
     - modules: oscillator, filter, envelope generator, and dual rail power supply 
     - [devlog](https://www.youtube.com/playlist?list=PL79kqjVnD2ENdJDDSTUD3ZMdZPhVVu8yw)
+- [clock2-kicad](https://github.com/anandijain/clock2-kicad)
+    - a clock pcb that has a single-step and fixed-rate mode, using 3 555-timers
+    - based off of Ben Eater's breadboard version of the same circuit
+    - [devlog](https://youtube.com/playlist?list=PL79kqjVnD2EPn1BwOzr8Jr7stZLflvzYe)
 
 ## mechanical
 - [nerf shooter](https://github.com/anandijain/fusion-models)
@@ -39,7 +43,11 @@
 - competent cell prep (CaCl2 resuspension)
 - heat-shock bacterial transformation (pGLO)
 - [bacterial growth curve](https://youtu.be/dGUavu4nHIc)
+- [illuminator.ato](https://github.com/anandijain/illuminator.ato)
+    - RPi Pico controlled Gel-Doc Transilluminator to timelapse fluorescent petri-dishes and gels
+    - custom PCB (schematic done with Atopile, code-based schematic capture) for illumination and controls a Nikon D7100 via the MC-DC2 protocol
+    - [devlog](https://youtube.com/playlist?list=PL79kqjVnD2ENzYDWSiDm63MTBGJOrp2XY)
 
 ## mathematics 
-- [Differential Equations (Blanchard)](https://youtube.com/playlist?list=PL79kqjVnD2ENiC1uQ6QMwNgtHjK4Dnj6r&si=HUzgMzO9FrbPUsKC)
-- [Linear Algebra and Its Applications (Lay)](https://youtube.com/playlist?list=PL79kqjVnD2ENyFtiGsUJcy8cTByrYsGOL&si=sgaXWzQoBmLhn7DD)
+- [Differential Equations (Blanchard)](https://youtube.com/playlist?list=PL79kqjVnD2ENiC1uQ6QMwNgtHjK4Dnj6r)
+- [Linear Algebra and Its Applications (Lay)](https://youtube.com/playlist?list=PL79kqjVnD2ENyFtiGsUJcy8cTByrYsGOL)
