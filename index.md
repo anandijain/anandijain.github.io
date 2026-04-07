@@ -36,6 +36,11 @@
     - tap handle (manual)
     - clamp (manual)
 
+## chemical 
+- [livestreams](https://www.youtube.com/playlist?list=PL79kqjVnD2ENQXHJCXD_l0JZylJSA1OQb)
+- Fischer esterification of isopentyl alcohol to isopentyl acetate (banana oil)
+- Fischer esterification (and transesterification) of acetylsalicylic acid to methyl salicylate (wintergreen oil)
+
 ## biological
 - [lab notebook](https://typst.app/project/ryd4ZfO0EySVjz8dyn3C3S)
 - [vlogs + videos](https://youtube.com/playlist?list=PL79kqjVnD2EM-hH6ACfetDa45Uy-ympZT)
