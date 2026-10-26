@@ -60,3 +60,7 @@
 ## mathematics 
 - [Differential Equations (Blanchard)](https://youtube.com/playlist?list=PL79kqjVnD2ENiC1uQ6QMwNgtHjK4Dnj6r)
 - [Linear Algebra and Its Applications (Lay)](https://youtube.com/playlist?list=PL79kqjVnD2ENyFtiGsUJcy8cTByrYsGOL)
+
+## publications 
+- [SBMLToolkit.jl: a Julia package for importing SBML into the SciML ecosystem](https://pubmed.ncbi.nlm.nih.gov/38801698/)
+- [Composing Modeling And Simulation With Machine Learning In Julia](https://ieeexplore.ieee.org/document/9859453)
