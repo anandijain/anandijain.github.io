@@ -2,6 +2,9 @@
 [youtube](https://youtube.com/@the_runofff)
 
 ## software
+- [tinycpu](https://github.com/anandijain/tinycpu)
+    - 16 bit cpu designed in logisim and an assembler in rust
+    - [devlog](https://www.youtube.com/playlist?list=PLD1JoHw_VEBw)
 - [cas3.rs](https://github.com/anandijain/cas3.rs)
     - a minimal mathematica kernel in rust capable of SKI combinator evaluation, symbolic differentiation, and cellular automata simulation
     - [cas8.rs](https://github.com/anandijain/cas8.rs) is quite similar, but uses a reference counted expressions and improves performance
@@ -13,7 +16,7 @@
 
 ## electrical
 - [synth.kicad](https://github.com/anandijain/synth.kicad) 
-    - a simple modular synth designed in KiCAD 7 and DIY double sided pcbs
+    - a simple modular synth designed in KiCAD 7 and DIY (toner-transfer) double sided pcbs
     - modules: oscillator, filter, envelope generator, and dual rail power supply 
     - [devlog](https://www.youtube.com/playlist?list=PL79kqjVnD2ENdJDDSTUD3ZMdZPhVVu8yw)
 - [clock2-kicad](https://github.com/anandijain/clock2-kicad)
@@ -40,13 +43,14 @@
 - [livestreams](https://www.youtube.com/playlist?list=PL79kqjVnD2ENQXHJCXD_l0JZylJSA1OQb)
 - Fischer esterification of isopentyl alcohol to isopentyl acetate (banana oil)
 - Fischer esterification (and transesterification) of acetylsalicylic acid to methyl salicylate (wintergreen oil)
+- extraction and purification of piperine from black pepper using soxhlet extractor
 
 ## biological
 - [lab notebook](https://typst.app/project/ryd4ZfO0EySVjz8dyn3C3S)
 - [vlogs + videos](https://youtube.com/playlist?list=PL79kqjVnD2EM-hH6ACfetDa45Uy-ympZT)
 - plasmid extraction (mini-prep pGLO)
 - competent cell prep (CaCl2 resuspension)
-- heat-shock bacterial transformation (pGLO)
+- heat-shock + electroporation bacterial transformation (pGLO)
 - [bacterial growth curve](https://youtu.be/dGUavu4nHIc)
 - [illuminator.ato](https://github.com/anandijain/illuminator.ato)
     - RPi Pico controlled Gel-Doc Transilluminator to timelapse fluorescent petri-dishes and gels
